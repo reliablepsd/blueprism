@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>featured-next</title>
+    <desc>Created with Sketch.</desc>
+    <g id="HomepageV4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BP_Homepage_Mobile" transform="translate(-282.000000, -1066.000000)">
+            <g id="Group-5" transform="translate(10.000000, 994.000000)">
+                <g id="featured-next" transform="translate(272.000000, 72.000000)">
+                    <g id="slick-arrow-next">
+                        <circle id="Oval" fill="#F15F43" cx="14" cy="14" r="14"></circle>
+                        <polyline id="Path-6" stroke="#FFFFFF" stroke-width="2" points="11 7 18 13.5 11 20"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
